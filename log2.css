@@ -80,10 +80,10 @@ width:50%;
 }
 
 div.gallery1 {
-  margin: 10px;
+  margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 415px;
+  width: 410px;
 }
 
 div.gallery1:hover {
